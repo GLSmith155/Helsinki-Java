@@ -1,2 +1,2 @@
 # Helsinki-Java
-The following are all of my completed problems to the University of Helsinki's Programming I and II course in Java.
+The following are all of my completed problems from the University of Helsinki's Programming I and II course.
