@@ -19,17 +19,17 @@ public class AverageOfThreeNumbers {
       Scanner userInput = new Scanner(System.in);
 
       
-      // Prompt the user for a double.
+      // Prompts the user for the first number.
       System.out.println("Give the first number: ");
       // Read the String written by the user, and assign it
       double firstDouble = Double.valueOf(userInput.nextLine());
 
-      // Prompt the user for a double.
+      // Prompts the user for the second number.
       System.out.println("Give the second number: ");
       // Read the String written by the user, and assign it
       double secondDouble = Double.valueOf(userInput.nextLine());
 
-      // Prompt the user for a double.
+      // Prompts the user for the third number.
       System.out.println("Give the third number: ");
       // Read the String written by the user, and assign it
       double thirdDouble = Double.valueOf(userInput.nextLine());      
