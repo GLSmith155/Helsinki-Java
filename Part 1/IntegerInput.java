@@ -14,16 +14,16 @@ public class IntegerInput {
 */
    public static void main(String[] args)
    {
-      // User Scanner class to get user input for a message.
+      // User Scanner class to get user input for a number.
       Scanner userInput = new Scanner(System.in);
 
-      // Prompt the user for their message.
+      // Prompt the user for their number.
       System.out.println("Enter a number: ");
 
-      // Read the string written by the user, and assign it
+      // Assign the user input as an integer
       int number = Integer.valueOf(userInput.nextLine());
 
-      // Read the string written by the user, and assign it
+      // Print the user's input as an integer after the println below.
       System.out.println("You provided the number " + number);
    }
 }
