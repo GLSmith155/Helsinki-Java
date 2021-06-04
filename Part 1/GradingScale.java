@@ -28,7 +28,7 @@ public class GradingScale {
       if (totalPoints > 100) {
          System.out.println("Incredible!");
       }
-      // Otherwise they are good to go!
+      
       else if ((totalPoints >= 90) && (totalPoints <= 100)) {
          System.out.println("You scored a 5!");        
       }
