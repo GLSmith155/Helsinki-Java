@@ -1,2 +1,2 @@
 # Helsinki-Java
-A repository for all Helsinki Java Problems
+The following are all of my completed problems to the University of Helsinki's Programming I and II course in Java.
