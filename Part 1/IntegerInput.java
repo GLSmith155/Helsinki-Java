@@ -21,6 +21,8 @@ public class IntegerInput {
       System.out.println("Enter a number: ");
 
       // Assign the user input as an integer
+      // Similarly you can convert a string to a double with the following:
+      // double number = Double.valueOf(valueAsString);
       int number = Integer.valueOf(userInput.nextLine());
 
       // Print the user's input as an integer after the println below.
