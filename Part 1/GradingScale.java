@@ -54,7 +54,6 @@ public class GradingScale {
       }
       
       else {
-         
          System.out.println("That's not a valid score! Try again.");       
            
       }
@@ -63,6 +62,6 @@ public class GradingScale {
       // Closes userInput to prevent resource leak
       finally {
          userInput.close();
-              }     
+      }     
    }
 }
