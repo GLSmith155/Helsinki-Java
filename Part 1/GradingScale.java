@@ -55,7 +55,6 @@ public class GradingScale {
       
       else {
          System.out.println("That's not a valid score! Try again.");       
-           
       }
       
       }
